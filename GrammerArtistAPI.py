@@ -1,3 +1,8 @@
+# GrammerArtistAPI.py
+# Date created: 5/13/14
+# trevor.prater@gmail.com (Trevor Prater)
+# jun.huang.cs@gmail.com (Jun Huang)
+
 from datetime import date
 import tornado.escape
 import tornado.ioloop

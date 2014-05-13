@@ -1,7 +1,7 @@
 # Scraper.py
 # Date created: 5/10/14
 # trevor.prater@gmail.com (Trevor Prater)
-# mightybeesun@gmail.com (Jun Huang)
+# jun.huang.cs@gmail.com (Jun Huang)
 
 import os
 import re
