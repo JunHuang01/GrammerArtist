@@ -104,5 +104,3 @@ class Scraper:
 			jsonResponses = json.dumps(responses)
 			lastTimestamp = responses[(len(responses)-1)]['timestamp']
 
-#	def downloadImage(link):
-#		os.system('wget -P ./images %s'%link)
